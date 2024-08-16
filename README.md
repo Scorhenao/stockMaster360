@@ -1,5 +1,5 @@
 # stockMaster360
-## **Propuesta de Proyecto: **StockMaster360™ - Plataforma Integral de Gestión de Inventarios y Pedidos**
+### **Propuesta de Proyecto: StockMaster360™ - Plataforma Integral de Gestión de Inventarios y Pedidos**
 
 ### **Visión General del Proyecto**
 
@@ -49,6 +49,9 @@
 14. **Corrección de Facturación en Unidades de Producción**
     - Información precisa sobre pedidos, incluyendo ajustes por productos dañados y errores de facturación, para garantizar una facturación y registro correctos.
 
+15. **Proceso de Devoluciones Eficiente**
+    - Implementación de un sistema para gestionar devoluciones con un período de tiempo determinado (por ejemplo, 30 días). Las franquicias pueden solicitar devoluciones a través de la plataforma, especificando el motivo y el estado del producto. El sistema actualizará automáticamente el inventario y procesará reembolsos o cambios de productos de manera ágil.
+
 ### **Beneficios del Proyecto**
 
 - **Eficiencia Operativa:** Automatiza la gestión de inventarios y pedidos, reduciendo el tiempo y los errores asociados con los procesos manuales.
@@ -56,6 +59,7 @@
 - **Experiencia del Usuario Optimizada:** Ofrece una interfaz intuitiva y características avanzadas para una experiencia de compra y gestión de pedidos sin fricciones.
 - **Gestión de Incidencias Eficiente:** Permite una rápida identificación y resolución de problemas relacionados con pedidos y productos dañados.
 - **Transparencia y Control:** Proporciona un historial detallado y herramientas de supervisión para una gestión completa y transparente de pedidos e inventarios.
+- **Flexibilidad en Devoluciones:** Facilita un proceso de devoluciones estructurado y eficiente, asegurando una gestión justa y oportuna de productos devueltos.
 
 ### **Aplicaciones Potenciales**
 
